@@ -3,9 +3,9 @@ class Login extends Component {
     render() {
         return (
 <Login>
-<title>Login</title>
 
-<body>
+
+
     <main class="form-signin">
         
         <form>
@@ -45,7 +45,6 @@ class Login extends Component {
     <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js " integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin=" anonymous "></script>
     <script src="../js/bootstrap.min.js "></script>
 
-</body>
 </Login>
 )
 }
