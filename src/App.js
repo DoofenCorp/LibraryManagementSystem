@@ -2,7 +2,7 @@ import './App.css';
 import './assets/css/style-prefix.css'
 import './assets/css/style.css'
 import React, { Component } from 'react';
-import Header from './Components/header';
+import Header from './components/header';
 
 class App extends Component {
 
